@@ -8,7 +8,7 @@ public class Board {
 	private Cell[][] board;
 	private int rows;
 	private int cols;
-
+	
 	/**
 	 * Constructor for Boards.
 	 * 
