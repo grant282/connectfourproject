@@ -77,6 +77,7 @@ public class Driver {
 			}
 			board.display();
 		}
+		if (gamemode.equals("computer"))
 	}
 
 	/**
